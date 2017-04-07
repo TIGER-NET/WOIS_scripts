@@ -1,0 +1,3 @@
+[submodule "scripts/sentinel_download"]
+	path = scripts/sentinel_download
+	url = https://github.com/DHI-GRAS/sentinel_download.git
