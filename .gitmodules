@@ -4,3 +4,6 @@
 [submodule "scripts/swi_downloader"]
 	path = scripts/swi_downloader
 	url = https://github.com/DHI-GRAS/swi_downloader.git
+[submodule "scripts/sentinel_scripts"]
+	path = scripts/sentinel_scripts
+	url = https://github.com/DHI-GRAS/QGIS_sentinel_scripts.git
