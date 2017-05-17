@@ -7,3 +7,6 @@
 [submodule "scripts/sentinel_scripts"]
 	path = scripts/sentinel_scripts
 	url = https://github.com/DHI-GRAS/QGIS_sentinel_scripts.git
+[submodule "scripts/python_fmask"]
+	path = scripts/python_fmask
+	url = https://github.com/DHI-GRAS/QGIS_python_fmask.git
