@@ -10,3 +10,6 @@
 [submodule "scripts/python_fmask"]
 	path = scripts/python_fmask
 	url = https://github.com/DHI-GRAS/QGIS_python_fmask.git
+[submodule "rlibs"]
+	path = rlibs
+	url = https://github.com/TIGER-NET/WOIS_rlibs.git
