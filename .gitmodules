@@ -10,3 +10,6 @@
 [submodule "rlibs"]
 	path = rlibs
 	url = https://github.com/TIGER-NET/WOIS_rlibs.git
+[submodule "scripts/sentinelsat-qgis-script"]
+	path = scripts/sentinelsat-qgis-script
+	url = https://github.com/sentinelsat/sentinelsat-qgis-script.git
